@@ -15,7 +15,7 @@ export default defineConfig({
       entry: {
         'plugin/highlight': resolve(__dirname, 'index.ts'),
       },
-      name: 'RevealHighlight',
+      name: 'CodeEditor',
       fileName: appendExtension
     }
   },
